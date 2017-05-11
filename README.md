@@ -1,7 +1,4 @@
-# FelixTheCat
-A Demo Player 
-
-What is a Demo?
+# FelixTheCat - A Demo Player 
 
 A demo is a program that displays a sound, music, and light show, usually in 3D. Demos are very fun to watch, because they seemingly do things that aren't possible on the machine they were programmed on.
 
